@@ -1,10 +1,16 @@
 _repo: Sun-Sand-and-Somals-Leaves-from-the-note-book-of-a-District-Commissioner-in-British-Somalilan__48598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48598-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Rayne, H.
     gutenberg_agent_id: '44875'
     url: http://www.gutenberg.org/2009/agents/44875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48598#Sun-Sand-and-Somals-Leaves-from-the-note-book-of-a-District-Commissioner-in-British-Somalilan_
 gutenberg_issued: '2015-03-28'
 gutenberg_type: Text
 identifiers:
